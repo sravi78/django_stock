@@ -1,4 +1,4 @@
-# Copyright (c) 2019 -2022 Ravi All Rights Reserved
+# Copyright (c) 2019 -2021 Ravi All Rights Reserved
 
 from django.shortcuts import render, redirect
 from .models import Stock
